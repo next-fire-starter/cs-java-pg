@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/java:1-21-bullseye
+FROM mcr.microsoft.com/devcontainers/base:ubuntu22.04
 
 ARG INSTALL_MAVEN="false"
 ARG MAVEN_VERSION=""
