@@ -15,4 +15,4 @@ gradle bootRun
 ```
 
 ### ブラウザ起動後に以下のURLからアクセス
-https://{githubが8080で起動される}/greeting?name=User
+https://{codespacesから8080ポートで起動される}/greeting?name=User
