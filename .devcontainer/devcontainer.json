@@ -15,6 +15,14 @@
 			"jdkDistro": "oracle"
 		}
 	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"vscodevim.vim",
+				"ms-ossdata.vscode-postgresql"
+			]
+		}
+	},
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {}
