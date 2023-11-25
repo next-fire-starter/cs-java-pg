@@ -19,7 +19,9 @@
 		"vscode": {
 			"extensions": [
 				"vscodevim.vim",
-				"ms-ossdata.vscode-postgresql"
+				"ms-ossdata.vscode-postgresql",
+				"vscjava.vscode-java-pack",
+				"vmware.vscode-boot-dev-pack"
 			]
 		}
 	},
