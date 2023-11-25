@@ -11,7 +11,8 @@
 		},
 		"ghcr.io/devcontainers-contrib/features/gradle-sdkman:2": {
 			"version": "8.4",
-			"jdkVersion": "21.0.1-graal"
+			"jdkVersion": "21.0.1-graal",
+			"jdkDistro": "oracle"
 		}
 	},
 
