@@ -7,7 +7,7 @@
 	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 	"features": {
 		"ghcr.io/itsmechlark/features/postgresql:1": {
-			"varsion": "16.1"
+			"version": "16.1"
 		},
 		"ghcr.io/devcontainers-contrib/features/gradle-sdkman:2": {
 			"version": "8.4",
